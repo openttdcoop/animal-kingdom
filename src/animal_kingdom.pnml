@@ -1,0 +1,129 @@
+grf {
+	grfid   : "slf\05";
+	name    : string(STR_GRF_NAME);
+	desc    : string(STR_GRF_DESCRIPTION);
+    url     : string(STR_GRF_WEBSITE);
+	version : REPO_REVISION;
+	min_compatible_version: 0;
+}
+
+town_names (prefix_saint) {
+	{
+		text ("Saint ", 1),
+		text ("Santa ", 1),
+		text ("San ",1)
+	}
+}
+
+town_names (prefix) {
+	{
+		town_names (prefix_saint, 1),
+		text ("Grand ", 1),
+		text ("New ", 1),
+		text ("Lake ", 1),
+		text ("Mount ", 1),
+		text ("Port ", 1),
+		text ("Fort ", 1)
+	}
+}
+
+town_names (middlepart) {
+	{
+		text ("Woof", 1),
+		text ("Meow", 1),
+		text ("Mew", 1),
+		text ("Neigh", 1),
+		text ("Chirp", 1),
+		text ("Ribbit", 1),
+		text ("Hiss", 1),
+		text ("Hoot", 1),
+		text ("Baa", 1),
+		text ("Squeak", 1),
+		text ("Click", 1),
+		text ("Coo", 1),
+		text ("Arf", 1),
+		text ("Beep", 1),
+		text ("Bowwow", 1),
+		text ("Croak", 1),
+		text ("Bzzz", 1),
+		text ("Chirr", 1),
+		text ("Crunch", 1),
+		text ("Cuckcoo", 1),
+		text ("Eee-aaaah", 1),
+		text ("Eek-eek", 1),
+		text ("Grawr", 1),
+		text ("Moo", 1),
+		text ("Scritch", 1),
+		text ("Slurp", 1),
+		text ("Oink", 1),
+		text ("Snort", 1),
+		text ("Om-nom", 1),
+		text ("Tweet",1),
+		text ("Quack",1),
+		text ("Caw",1),
+		text ("Chomp",1),
+		text ("Honk",1),
+		text ("Piep",1),
+		text ("Roar",1),
+		text ("Purr",1),
+		text ("Ssss",1)
+	}
+}
+
+town_names (suffix_town) {
+	{
+		text ("ton", 1),
+		text ("stown", 1)
+	}
+}
+town_names (suffix_boro) {
+	{
+		text ("borough",1),
+		text ("boro",1)
+	}
+}
+town_names (suffix) {
+	{
+		town_names(suffix_town, 1),
+		town_names(suffix_boro, 1),
+		text ("s", 1),
+		text ("dale", 1),
+		text ("land", 1),
+		text ("ville", 1),
+		text ("burg", 1),
+		text ("field", 1),
+		text ("polis", 1)
+	}
+}
+town_names (suffix_two) {
+	{
+		town_names (suffix,8),
+		text (" Park",1),
+		text (" Creek",1),
+		text (" Springs",1),
+		text (" Valley",1),
+		text (" Falls",1),
+		text (" Grove",1),
+		text (" City",1),
+		text (" Beech",1)
+	}
+}
+
+town_names (middle_post) {
+	{ town_names (middlepart, 1)}
+	{ town_names (suffix_two, 1)}
+}
+
+town_names (full) {
+	{ town_names (prefix, 1)}
+	{ town_names (middlepart, 1)}
+	{ town_names (suffix, 1)}
+}
+
+town_names {
+	styles : string (STR_TOWN_NAME);
+	{
+		town_names(middle_post, 4),
+		town_names(full, 1)
+	}
+}
