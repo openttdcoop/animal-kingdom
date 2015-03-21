@@ -95,7 +95,7 @@ MAKE           ?= make
 MAKE_FLAGS     ?= -r
 
 NML            ?= nmlc
-NML_FLAGS      ?= -c
+NML_FLAGS      ?= -c --default-lang=english_us.lng
 ifdef REQUIRED_NML_BRANCH
 	NML_BRANCH = $(shell $(NML) --version | head -n1 | cut -d. -f1-2)
 endif
