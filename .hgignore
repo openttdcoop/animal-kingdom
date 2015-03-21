@@ -1,0 +1,7 @@
+syntax: glob
+
+*.grf
+*.nml
+*.tar
+custom_tags.txt
+Animal-Kingdom/*
