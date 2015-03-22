@@ -1,0 +1,9 @@
+##grflangid 0x22
+##plural 0
+##gender Masculin Femenin
+
+STR_GRF_NAME                    :Regne Animal (Noms de Poblacions) {VERSION}
+STR_GRF_DESCRIPTION             :Una col·lecció de noms de poblacions basats en onomatopeies animals
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Regne Animal

@@ -1,0 +1,10 @@
+##grflangid 0x38
+##plural 6
+##gender male female middle
+##case aku dat gen ins lok nom vok
+
+STR_GRF_NAME                    :Životinjsko Carstvo (imena gradova) {VERSION}
+STR_GRF_DESCRIPTION             :Ovo je smiješna kolekcija imena gradova na osnovi životinjskog glasanja
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Životinjsko Carstvo
