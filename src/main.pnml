@@ -97,7 +97,6 @@ town_names (suffix) {
 }
 town_names (suffix_two) {
 	{
-		town_names (suffix,8),
 		text (" Park",1),
 		text (" Creek",1),
 		text (" Springs",1),
