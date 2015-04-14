@@ -1,0 +1,15 @@
+﻿R0003 (2015-04-14)
+==================
+* Added changelog.txt (this file)
+* Fixed the version tag
+* Translations
+
+R0002 (2015-03-31)
+==================
+* Fixed a typo
+* Fixed duplicate town names
+* Translations
+
+R0001 (2015-03-21)
+==================
+* Initial release
