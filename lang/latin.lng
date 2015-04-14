@@ -1,0 +1,10 @@
+##grflangid 0x66
+##plural 0
+##gender m f n mp fp np
+##case abl acc dat gen
+
+STR_GRF_NAME                    :Regnum Animale (Nomina Oppidorum) {VERSION}
+STR_GRF_DESCRIPTION             :Est collectio nominum oppidorum sequens onomatopeiae animali
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Regnum Animale
