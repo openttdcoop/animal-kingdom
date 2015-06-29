@@ -1,0 +1,9 @@
+##grflangid 0x03
+##plural 2
+##gender f m m2
+
+STR_GRF_NAME                    :Règne Animal (Noms de villes) {VERSION}
+STR_GRF_DESCRIPTION             :Une liste de noms de villes loufoques basés sur des onomatopées animales
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Règne Animal
