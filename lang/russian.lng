@@ -1,0 +1,10 @@
+##grflangid 0x07
+##plural 6
+##gender p n m f
+##case acc nom pre f abl m n dat p gen
+
+STR_GRF_NAME                    :Звериное царство (Названия городов) {VERSION}
+STR_GRF_DESCRIPTION             :Этот набор представляет смешные названия городов на основе звуков животных
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Звериное царство
