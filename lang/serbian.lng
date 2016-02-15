@@ -1,0 +1,10 @@
+##grflangid 0x0d
+##plural 6
+##gender ženski srednji muški
+##case nom big aku vok dat lok ins gen
+
+STR_GRF_NAME                    :Životinjsko carstvo (imena gradova) {VERSION}
+STR_GRF_DESCRIPTION             :Šašava kolekcija imena gradova na osnovu životinjskih onomatopeja
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Životinjsko carstvo
