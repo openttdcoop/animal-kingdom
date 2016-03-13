@@ -1,0 +1,8 @@
+##grflangid 0x0a
+##plural 0
+
+STR_GRF_NAME                    :விலங்குப் பேரரசு (Town Names) {VERSION}
+STR_GRF_DESCRIPTION             :இது விலங்குப் பேரரசினை வைத்து உருவாக்கப்பட்ட ஒரு சிறு பிள்ளைத்தனமான நகரப் பெயர்கள் தொகுப்பாகும்
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :விலங்குப் பேரரசு
