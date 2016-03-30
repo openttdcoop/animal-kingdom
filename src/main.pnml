@@ -66,7 +66,12 @@ town_names (middlepart) {
 		text ("Piep",1),
 		text ("Roar",1),
 		text ("Purr",1),
-		text ("Ssss",1)
+		text ("Ssss",1),
+        text ("Fiddle-eye-fee",1),
+        text ("Shimmy-shack",1),
+        text ("Griffey",1),
+        text ("Quaa",1),
+        text ("Honey",1)
 	}
 }
 
