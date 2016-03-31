@@ -1,4 +1,8 @@
-﻿R0003 (2015-04-14)
+﻿R0004 (2016-04-01)
+==================
+* Added animal sounds found in Aaron Copland's edition of "I Bought Me a Cat"
+
+R0003 (2015-04-14)
 ==================
 * Added changelog.txt (this file)
 * Fixed the version tag
