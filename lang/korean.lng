@@ -1,0 +1,9 @@
+##grflangid 0x3a
+##plural 11
+##gender m f
+
+STR_GRF_NAME                    :동물의 왕국 (도시 이름) {VERSION}
+STR_GRF_DESCRIPTION             :이 GRF는 동물의 소리를 기반으로 한 (재미 없는) 도시 이름 GRF입니다
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :동물의 왕국
