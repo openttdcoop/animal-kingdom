@@ -1,0 +1,8 @@
+##grflangid 0x23
+##plural 0
+
+STR_GRF_NAME                    :Animal Kingdom (Stiednimm) {VERSION}
+STR_GRF_DESCRIPTION             :Eng domm Usammlung vun Stiednimm déi séch op d'Déiereräich baséiert
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Animal Kingdom
