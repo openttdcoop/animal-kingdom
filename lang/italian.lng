@@ -3,8 +3,8 @@
 ##gender m ma f
 ##case fp fs mp ms
 
-STR_GRF_NAME                    :Regno dei Animali (nomi di cittá) {VERSION}
-STR_GRF_DESCRIPTION             :E una collezione sciocca di nomi di cittá basata sul' onomatopeia animale
+STR_GRF_NAME                    :Regno degli Animali (nomi di città) {VERSION}
+STR_GRF_DESCRIPTION             :Una collezione scema di nomi di città basata sull'onomatopea animale
 STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
 
-STR_TOWN_NAME                           :Regno dei Animali
+STR_TOWN_NAME                           :Regno degli Animali
