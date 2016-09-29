@@ -1,0 +1,9 @@
+##grflangid 0x02
+##plural 0
+##gender p m w n
+
+STR_GRF_NAME                    :Königreich der Tiere (Städtenamen) {VERSION}
+STR_GRF_DESCRIPTION             :Das ist eine lustige Sammlung von lautmalerischen Stadtnamen basiernd auf Tierstimmen.
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Königreich der Tiere
