@@ -1,0 +1,10 @@
+##grflangid 0x15
+##plural 10
+##gender fp map f mnp m n np
+##case acc nom loc big voc ins dat small gen
+
+STR_GRF_NAME                    :Animal Kingdom (Názvy měst) {VERSION}
+STR_GRF_DESCRIPTION             :Bláznivá kolekce názvů měst, která je založena na zvucích zvířat
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Království zvířat
