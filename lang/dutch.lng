@@ -1,0 +1,8 @@
+##grflangid 0x1f
+##plural 0
+
+STR_GRF_NAME                    :Fauna (stadsnamen) {VERSION}
+STR_GRF_DESCRIPTION             :Een maffe verzameling stadsnamen op basis van dierengeluiden
+STR_GRF_WEBSITE             :https://dev.openttdcoop.org/projects/animal-kingdom
+
+STR_TOWN_NAME                           :Fauna
